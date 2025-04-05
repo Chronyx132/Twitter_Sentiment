@@ -1,7 +1,17 @@
 # Twitter_Sentiment
 Machine Learning Model for NUS IT1244 Group Project
 
+## Introduction
+This project explores the application of Machine Learning (ML) and Deep Learning (DL) techniques to perform sentiment analysis on twitter posts. The goal is to classify the sentiment of a written tweet as positive or negative. A deeper understanding of sentiment trends can benefit businesses in refining marketing strategies, assist policymakers in gauging public opinion on key issues, and help researchers improve sentiment analysis models.
+
+## Team Members
+* Albertus Frederick Ashali
+* Irving Tan
+* Gin Jing Long Jack
+* Goh Peng Kerng
+
 Twitter Sentiment Dataset
+
 
 Dataset Characteristics:  
 Text
