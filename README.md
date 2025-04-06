@@ -21,7 +21,7 @@ Optimization strategies (AdamW, hyperparameter tuning, efficiency metrics) to en
 
 
 ## Usage
-Download the required libraries in requirements.txt
+Download the required libraries in requirements.txt.
 
 Run the notebooks in this order:
 1. Exploratory Data Analysis
