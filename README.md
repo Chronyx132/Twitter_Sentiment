@@ -24,7 +24,7 @@ Optimization strategies (AdamW, hyperparameter tuning, efficiency metrics) to en
 Download the required libraries in requirements.txt.
 
 Run the notebooks in this order:
-1. Exploratory Data Analysis
+1. Exploratory Data Analysis and Cleaning
 2. Logistic Regression Baseline
 3. Multinomial Naive Bayes (TF-IDF)
 4. Random Forest Feature Selection with ML
