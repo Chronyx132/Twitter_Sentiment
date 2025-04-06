@@ -1,4 +1,4 @@
-# Twitter_Sentiment
+# Twitter Sentiment
 Machine Learning Model for NUS IT1244 Group Project
 
 ## Introduction
@@ -10,7 +10,8 @@ This project explores the application of Machine Learning (ML) and Deep Learning
 * Gin Jing Long Jack
 * Goh Peng Kerng
 
-Twitter Sentiment Dataset
+## Project Overview
+We evaluated various ML and DL using python libraries sci-kit learn, nltk, 
 
 
 Dataset Characteristics:  
