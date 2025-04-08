@@ -29,7 +29,7 @@ Cleaning the data and did some basic feature selection at this step.
 Using features selected from 1., ran a baseline Logistic Regression model.
 ### 3. Multinomial Naive Bayes (TF-IDF)
 Utilising another model using TF-IDF encoding.
-### 4. Random Forest Feature Selection with ML
+### 4. Random Forest Feature Selection and Finalised ML
 Utilised different encodings such as Bag of Words, TF-IDF, VADERS and a combination of the basic feature selection in 1. and used Random Forest to select the best encoding. With that, we improve on the ML models (Logistic Regression, MUltinomial Naive Bayes, KNN) and used hyperparameter optimisation on each of the models based on accuracy. 
 ### 5. Neural Network
 This step focuses on DL techniques to improve sentiment classification performance beyond traditional ML models. Defined custom parameters such as Accuracy Efficiency = Validation Accuracy / Number of Parameters as an efficiency metric. Lastly, utilised a custom model: Cluster-Based Deep Learning inspired by the Mixture of Experts (MoE) framework, which combines both DL and ML frameworks.
